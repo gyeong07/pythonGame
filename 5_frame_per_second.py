@@ -31,7 +31,7 @@ to_x = 0
 to_y = 0
 
 # 이동 속도
-character_speed = 0.3
+character_speed = 0.5
 
 # 이벤트 루프
 running = True  # 게임이 진행중인가?
